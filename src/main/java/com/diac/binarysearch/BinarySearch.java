@@ -1,6 +1,6 @@
 package com.diac.binarysearch;
 
-import com.diac.binarysearch.data.RandomArray;
+import com.diac.algorithms.data.RandomArray;
 
 import java.util.Random;
 

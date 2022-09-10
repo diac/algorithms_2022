@@ -1,4 +1,4 @@
-package com.diac.binarysearch.data;
+package com.diac.algorithms.data;
 
 import java.util.Arrays;
 import java.util.Random;
