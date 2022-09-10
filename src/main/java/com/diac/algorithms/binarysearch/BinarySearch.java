@@ -1,4 +1,4 @@
-package com.diac.binarysearch;
+package com.diac.algorithms.binarysearch;
 
 import com.diac.algorithms.data.RandomArray;
 
